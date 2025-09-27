@@ -2,8 +2,10 @@
 
 This project explores machine learning techniques to predict IMDb movie ratings using metadata such as **genres, budgets, revenues, overviews, and production details**. By combining **text mining** (TF-IDF on movie overviews) with **feature engineering** and **classification algorithms**, the project evaluates multiple models and identifies the most effective subset of attributes for rating prediction.  
 
-This Project delves into various Machine Learning Algorhtims, such as Random Forest, Complement Naive Bayes,
+This Project delves into various Machine Learning Algorhtims, such as and algorithms like Random Forest, Complement Naive Bayes, Logistic Regression and SVM.
 
+The IMDb Movie Rating Predictor certainly has a varied of practical uses cases. Platforms can use it to highlight movies predicted to earn higher ratings, while downplaying or moderating those likely to score poorly, which improves recommendations, strengthens content curation, and builds user trust.
+These insights also help streaming services optimize catalog management, prioritize high-quality titles, and enhance audience engagement and retention by showcasing content with greater potential for positive reception.
 ---
 
 ## Dataset  
